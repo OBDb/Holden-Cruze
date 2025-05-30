@@ -1,0 +1,11 @@
+command_id: 7E0.2211A1
+test_cases:
+- response: 7E8056211A10000
+  expected_values:
+    HOLDEN_RUNTM: 0
+- response: 7E8056211A100F5
+  expected_values:
+    HOLDEN_RUNTM: 245
+- response: 7E8056211A10203
+  expected_values:
+    HOLDEN_RUNTM: 515
