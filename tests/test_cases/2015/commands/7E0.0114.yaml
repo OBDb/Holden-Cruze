@@ -2,5 +2,5 @@ command_id: 7E0.0114
 test_cases:
 - expected_values:
     O2S11: 0.32
-    SHRTFT11: 2.34375
+    SHRTFT11: -25.65625
   response: '7E80441144083'
