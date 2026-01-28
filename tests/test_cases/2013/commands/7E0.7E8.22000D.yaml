@@ -4,5 +4,5 @@ test_cases:
     HOLDEN_VSS: 0
   response: 7E80462000D00
 - expected_values:
-    HOLDEN_VSS: 50
-  response: 7E80462000D32
+    HOLDEN_VSS: 97
+  response: 7E80462000D61
