@@ -9,5 +9,5 @@ test_cases:
     7E80462000D27
     NO DATA
 - expected_values:
-    HOLDEN_VSS: 108
-  response: 7E80462000D6C
+    HOLDEN_VSS: 115
+  response: 7E80462000D73
