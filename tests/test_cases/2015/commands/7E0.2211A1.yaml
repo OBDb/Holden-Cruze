@@ -4,8 +4,8 @@ test_cases:
     HOLDEN_RUNTM: 0
   response: 7E8056211A10000
 - expected_values:
-    HOLDEN_RUNTM: 1279
-  response: 7E8056211A104FF
+    HOLDEN_RUNTM: 255
+  response: 7E8056211A100FF
 - expected_values:
     HOLDEN_RUNTM: 2341
   response: 7E8056211A10925
