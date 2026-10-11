@@ -1,13 +1,13 @@
 command_id: 7E0.7E8.22000D
 test_cases:
 - expected_values:
-    HOLDEN_VSS: 0
+    CRUZE_VSS: 0
   response: 7E80462000D00
 - expected_values:
-    HOLDEN_VSS: 39
+    CRUZE_VSS: 39
   response: |-
     7E80462000D27
     NO DATA
 - expected_values:
-    HOLDEN_VSS: 115
+    CRUZE_VSS: 115
   response: 7E80462000D73
