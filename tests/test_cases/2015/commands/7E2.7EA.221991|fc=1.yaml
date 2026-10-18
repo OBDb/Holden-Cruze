@@ -1,0 +1,11 @@
+command_id: 7E2.7EA.221991|fc=1
+test_cases:
+- expected_values:
+    CRUZE_TC_SLIP_VSS: 0
+  response: 7EA056219910000
+- expected_values:
+    CRUZE_TC_SLIP_VSS: 31.75
+  response: 7EA0562199100FE
+- expected_values:
+    CRUZE_TC_SLIP_VSS: -12.875
+  response: 7EA05621991FF99

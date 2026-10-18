@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220042
+test_cases:
+- expected_values:
+    CRUZE_CTRL_MODULE_V: 0
+  response: '7E8056200420000'
+- expected_values:
+    CRUZE_CTRL_MODULE_V: 12.471
+  response: 7E80562004230B7
+- expected_values:
+    CRUZE_CTRL_MODULE_V: 14.104
+  response: '7E8056200423718'

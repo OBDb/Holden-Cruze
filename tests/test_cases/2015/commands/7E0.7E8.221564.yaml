@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221564
+test_cases:
+- expected_values:
+    CRUZE_AC_HIGH_SIDE_P: 101
+  response: '7E80462156432'
+- expected_values:
+    CRUZE_AC_HIGH_SIDE_P: 199.98
+  response: '7E80462156463'

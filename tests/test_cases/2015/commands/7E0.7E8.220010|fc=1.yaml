@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220010|fc=1
+test_cases:
+- expected_values:
+    CRUZE_MAF: 0
+  response: '7E8056200100000'
+- expected_values:
+    CRUZE_MAF: 7.58
+  response: 7E80562001002F6
+- expected_values:
+    CRUZE_MAF: 36.77
+  response: 7E8056200100E5D
