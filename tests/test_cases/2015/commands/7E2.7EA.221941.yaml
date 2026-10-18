@@ -4,8 +4,8 @@ test_cases:
     CRUZE_TRANS_ISS: 0
   response: 7EA056219410000
 - expected_values:
-    CRUZE_TRANS_ISS: 1403.25
-  response: 7EA0562194115ED
+    CRUZE_TRANS_ISS: 4479.25
+  response: 7EA0562194145FD
 - expected_values:
     CRUZE_TRANS_ISS: 5993.5
   response: 7EA056219415DA6

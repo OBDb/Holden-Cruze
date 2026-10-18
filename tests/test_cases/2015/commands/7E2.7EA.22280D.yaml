@@ -4,5 +4,5 @@ test_cases:
     CRUZE_ATF_T_VAR_6: 23
   response: 7EA0462280D3F
 - expected_values:
-    CRUZE_ATF_T_VAR_6: 86
-  response: 7EA0462280D7E
+    CRUZE_ATF_T_VAR_6: 94
+  response: 7EA0462280D86
