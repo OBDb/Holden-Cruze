@@ -7,8 +7,8 @@ test_cases:
     CRUZE_BP_DES: 104.53
   response: 7E80562328A28D5
 - expected_values:
-    CRUZE_BP_DES: 116.02
-  response: 7E80562328A2D52
+    CRUZE_BP_DES: 110.65
+  response: 7E80562328A2B39
 - expected_values:
     CRUZE_BP_DES: 141.71
   response: 7E80562328A375B
