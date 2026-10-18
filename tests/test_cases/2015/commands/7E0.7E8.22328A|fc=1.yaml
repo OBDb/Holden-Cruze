@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22328A|fc=1
+test_cases:
+- expected_values:
+    CRUZE_BP_DES: 100.78
+  response: 7E80562328A275E
+- expected_values:
+    CRUZE_BP_DES: 104.53
+  response: 7E80562328A28D5
+- expected_values:
+    CRUZE_BP_DES: 116.02
+  response: 7E80562328A2D52
+- expected_values:
+    CRUZE_BP_DES: 141.71
+  response: 7E80562328A375B

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221144
+test_cases:
+- expected_values:
+    CRUZE_CABIN_AC_HIGH_SIDE_V: 1.06
+  response: '7E80462114435'
+- expected_values:
+    CRUZE_CABIN_AC_HIGH_SIDE_V: 1.94
+  response: '7E80462114461'

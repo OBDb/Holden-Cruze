@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221154
+test_cases:
+- expected_values:
+    CRUZE_EOT_CALC: 33
+  response: '7E80462115449'
+- expected_values:
+    CRUZE_EOT_CALC: 108
+  response: '7E80462115494'

@@ -1,0 +1,5 @@
+command_id: 241.641.225008
+test_cases:
+- expected_values:
+    CRUZE_TP_RL_241: 220
+  response: 641056250080DC0
